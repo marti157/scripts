@@ -53,7 +53,7 @@ def Start():
             filenameLength = len(fileName)
             if filenameLength < 100:
                 print "\n"
-                htmlString =  "<html>\n  <header>\n    <title>" + title + "</title>\n  </header>\n  <body>\n    <p>" + text + "</p>\n  </body>\n</html>"
+                htmlString =  "<html>\n  <head>\n    <title>" + title + "</title>\n  </head>\n  <body>\n    <p>" + text + "</p>\n  </body>\n</html>"
                 print "Saving..."
                 importedFile = open(fileName + ".html", "w")
                 importedFile.write(htmlString)
