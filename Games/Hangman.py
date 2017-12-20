@@ -17,7 +17,6 @@ try:
 		index = 0
 		while guesses > 0:
 			print "\nAvailable Guesses: " + str(guesses) + "\n"
-			print example
 			print ''.join(example)
 			guess = raw_input("\nYour Guess (letter or word): ").lower()
 			guesses -= 1
