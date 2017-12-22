@@ -60,6 +60,6 @@ get back as soon as i can.
 
 ## License
 
-This project is licensed under the [LICENSE.md](https://github.com/marti157/scripts/LICENSE) Apache 2 License - see in the general scripts folder.
+This project is licensed under the [LICENSE.md](https://github.com/marti157/scripts/blob/master/LICENSE) Apache 2 License - see in the general scripts folder.
 
 By Marti157
