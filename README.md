@@ -19,6 +19,10 @@ This case shows you how to execute a python script. If it were bash you can use:
 ```bash
 bash folder/<name of script>.sh
 ```
+And if it were javascript you can use Node or another console. I recommend node. Install it and use:
+```bash
+node folder/<name of script>.js
+```
 
 ### Contributing
 If you want to extend or fix a script, add a pull request to it.
