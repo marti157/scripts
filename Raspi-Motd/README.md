@@ -3,7 +3,7 @@ Easy script for a nice motd
 
 ## Setup
 Open /etc/profile and add this line at the bottom:
-```
+```bash
 /directory/to/script/HotMotd.sh
 ```
 You should also remove everything in the /etc/motd file.
@@ -22,12 +22,14 @@ Modify /etc/pam.d/login and comment this line:
 #session    optional   pam_motd.so
 ```
 Then restart SSH with
-```
+```bash
 sudo service ssh restart
 ```
-You are mostly done now.
+And done!
 
-Favourite if you used the script!
+## Now...
+Test if it works. Login to your ssh server and, if you can see the MOTD, congrats!
 
-Also leave feedback if you liked it and I will make this into a repo, with
-more options.
+If you don't see it, go through the steps again or read your OS's docs about SSH MOTDs or banners.
+
+I appreciate any stars! Leave a pull request if you want to append or fix anything.
