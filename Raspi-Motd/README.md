@@ -1,5 +1,7 @@
 # HOT MOTD
-Easy script for a nice motd
+![MOTD](icon.png)
+
+ **~ Easy script for a nice MOTD ~**
 
 ## Setup
 Open /etc/profile and add this line at the bottom:
