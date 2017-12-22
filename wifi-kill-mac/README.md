@@ -25,7 +25,7 @@ Open the WifiKillMac.py script with any text editor and edit the password line w
 the victim's computer's sudo password. Make sure the user is a sudoer.
 
 ```python
-while loop == 1:
+while True:
 	"sudo ifconfig en0 down"
 	"YourSudoPassword"
 	time.sleep(10)
@@ -60,7 +60,6 @@ get back as soon as i can.
 
 ## License
 
-This project is licensed under the Apache 2 License - see the [LICENSE.md](LICENSE.md) file for details
-
+This project is licensed under the [LICENSE.md](../LICENSE.md)Apache 2 License - see in the general scripts folder.
 
 By Marti157
