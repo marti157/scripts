@@ -11,7 +11,7 @@ If you want to use my scripts, you can download one of them or you can clone the
 
 You can do it using this in your terminal:
 ```bash
-git clone https://github.com/akhilnarang/scripts
+git clone https://github.com/marti157/scripts
 cd scripts
 python folder/<name of script>.py
 ```
