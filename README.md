@@ -4,7 +4,7 @@ Scripts that I code in my free time for fun.
 Languages:
 * Python
 * Bash
-* Javascript
+* PHP
 
 ### Run them
 If you want to use my scripts, you can download one of them or you can clone the whole repo.
