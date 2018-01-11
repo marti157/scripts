@@ -28,7 +28,7 @@ To run php scripts, you need to have some kind of server like Apache on Linux or
 ```
 mv folder/<name of script>.php /path/to/server/root/
 ```
-Then access through your browser in localhost:port/<name of script>.php
+Then access through your browser in localhost:port//<name of script>.php
 
 ### Contributing
 If you want to extend or fix a script, add a pull request to it.
