@@ -1,0 +1,14 @@
+{
+  "name": "WebServerTest",
+  "version": "1.0.0",
+  "description": "Web server test. Visit https://github.com/marti157/scripts/WebServer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Marti157",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
