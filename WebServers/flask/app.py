@@ -1,7 +1,7 @@
 """ By Marti157 (on GitHub) """
 
 # Import the necessary libraries for flask and for creating random numbers
-from flask import Flask, render_template, request
+from flask import Flask, request
 import random
 
 # Create the flask app
