@@ -1,7 +1,7 @@
 import sys
 import random
 
-alf = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y"]
+alf = [chr(i) for i in range(97, 97 + 26)]
 try:
 	msg = sys.argv[1]
 	print "Your message: " + msg
