@@ -30,7 +30,7 @@ try:
 				guess = int(guess)
 				if guess == number:
 					print "\nThe number was bigger than"
-				elif guess < number:
+				elif guess > number:
 					print "\nThe number was bigger than " + str(guess) + "!\nI was thinking of " + str(number) + "!\n"
 				else:
 					print "\nThe number was bigger than " + str(guess) + "!\nI was thinking of " + str(number) + "!\n"	
